@@ -228,7 +228,7 @@ GitHub:
 https://github.com/Bono-746
 
 LinkedIn:
-www.linkedin.com/in/bonosri-ghose-98a64b199
+https://www.linkedin.com/in/bonosri-ghose-98a64b199/
 
 Google Scholar:
 https://scholar.google.com/citations?user=AoBayBcAAAAJ&hl=en
