@@ -1,4 +1,5 @@
 # Bonosri Ghose
+<img src="PASSPORT SIZE PHOTO.jpg" width="200">
 [Home](README.md) | [Research](research.md) | [Publications](publications.md) | [Contact](contact.md)
 
 ## Earth Observation | Remote Sensing | Food Security | Agricultural Monitoring
