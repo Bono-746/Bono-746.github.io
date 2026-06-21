@@ -1,6 +1,8 @@
 # Bonosri Ghose
+
 <img src="PASSPORT SIZE PHOTO.jpg" width="200">
-[Home](README.md) | [Research](research.md) | [Publications](publications.md) | [Contact](contact.md)
+
+[Home](README.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md)
 
 ## Earth Observation | Remote Sensing | Food Security | Agricultural Monitoring
 
@@ -14,9 +16,20 @@ I am an Erasmus Mundus scholar in Geo-Information Science and Earth Observation 
 
 I am currently completing my MSc thesis at Université catholique de Louvain (UCLouvain), Belgium, after completing the first year of the GEM programme at Lund University, Sweden. My academic background combines Disaster Management, Earth Observation, Remote Sensing, and Environmental Modelling, with a strong interest in applying geospatial technologies to address agricultural and food security challenges.
 
-### PhD Interests
+---
 
-I am seeking PhD opportunities in Agricultural Remote Sensing, Earth Observation, Food Security, Environmental Modelling, and Machine Learning applications in Geospatial Science.
+## PhD Interests
+
+I am seeking PhD opportunities in:
+
+* Agricultural Remote Sensing
+* Earth Observation for Food Security
+* Crop Monitoring and Yield Estimation
+* Environmental Modelling
+* Climate-Smart Agriculture
+* Machine Learning Applications in Geospatial Science
+* Sustainable Agricultural Systems
+
 ---
 
 ## Research Interests
@@ -48,7 +61,7 @@ I am seeking PhD opportunities in Agricultural Remote Sensing, Earth Observation
 
 Selected Coursework:
 
-* Basic and Advance GIS
+* Basic and Advanced GIS
 * Satellite Remote Sensing
 * Spatial Modelling of Land Dynamics
 * Land Monitoring by Advanced Satellite Remote Sensing
@@ -62,17 +75,17 @@ Selected Coursework:
 
 Begum Rokeya University, Rangpur, Bangladesh
 
-Thesis:
+**Thesis:**
 
-**Differential Responses of Rice Yield Fluctuation to Climate Changes in Different Sub-regions of Bangladesh**
+Differential Responses of Rice Yield Fluctuation to Climate Changes in Different Sub-regions of Bangladesh
 
 ### Bachelor of Science in Disaster Management
 
 Begum Rokeya University, Rangpur, Bangladesh
 
-Undergraduate Thesis:
+**Undergraduate Thesis:**
 
-**Spatiotemporal Variation on Wheat Yield under Climate Change Conditions in Northwestern Bangladesh**
+Spatiotemporal Variation on Wheat Yield under Climate Change Conditions in Northwestern Bangladesh
 
 ---
 
@@ -104,6 +117,9 @@ This research investigates the potential of Sentinel-1 SAR and Sentinel-2 optica
 ### Study Area
 
 Dioila, Mali, West Africa
+
+---
+
 ## Research Outputs
 
 ### Study Area Map
@@ -119,6 +135,7 @@ Dioila, Mali, West Africa
 ![Feature Importance Graph 1](Feature_Importance_Graph_1.png)
 
 ![Feature Importance Graph 2](Feature_Importance_Graph_2.png)
+
 ---
 
 ## Professional Experience
@@ -152,11 +169,11 @@ Responsibilities:
 
 ## Selected Publications
 
-### First Author
+### First Author Publications
 
-1. Ghose, B., Islam, A.R.M.T., Islam, H.M.T. et al. (2021). Rain-Fed Rice Yield Fluctuation to Climatic Anomalies in Bangladesh. International Journal of Plant Production.
+1. Ghose, B., Islam, A.R.M.T., Islam, H.M.T. et al. (2021). Rain-Fed Rice Yield Fluctuation to Climatic Anomalies in Bangladesh. *International Journal of Plant Production*.
 
-2. Ghose, B., Islam, A.R.M.T., Kamruzzaman, M. et al. (2021). Climate-induced Rice Yield Anomalies Linked to Large-scale Atmospheric Circulation in Bangladesh Using Multi-statistical Modelling. Theoretical and Applied Climatology.
+2. Ghose, B., Islam, A.R.M.T., Kamruzzaman, M. et al. (2021). Climate-induced Rice Yield Anomalies Linked to Large-scale Atmospheric Circulation in Bangladesh Using Multi-statistical Modelling. *Theoretical and Applied Climatology*.
 
 3. Ghose, B., Islam, A.R.M.T., Salam, R., Shahid, S., Kamruzzaman, M., Das, S., Elbeltagi, A., and Salam, M.A. (2021). Rice Yield Responses in Bangladesh to Large-scale Atmospheric Oscillation Using Multifactorial Modelling.
 
@@ -220,35 +237,29 @@ Awarded for outstanding academic performance at Begum Rokeya University, Banglad
 
 ## Future Research Goals
 
-I am interested in pursuing a PhD in:
-
-* Agricultural Remote Sensing
-* Earth Observation for Food Security
-* Crop Monitoring and Yield Estimation
-* Environmental Modelling
-* Climate-Smart Agriculture
-* Machine Learning Applications in Geospatial Science
-* Sustainable Agricultural Systems
-
 My long-term goal is to contribute to the development of innovative Earth Observation solutions that support food security, climate resilience, and sustainable agricultural development.
+
+---
+
 ## Curriculum Vitae
 
-[📄 Download My CV](CV%20of%20Bonosri%20Ghose.pdf)
+📄 [Download My CV](CV%20of%20Bonosri%20Ghose.pdf)
+
 ---
 
 ## Contact
 
-Email:
+**Email:**
 [bonosri.bgd@gmail.com](mailto:bonosri.bgd@gmail.com)
 
-Academic Email:
+**Academic Email:**
 [bonosri.ghose@student.uclouvain.be](mailto:bonosri.ghose@student.uclouvain.be)
 
-GitHub:
+**GitHub:**
 https://github.com/Bono-746
 
-LinkedIn:
+**LinkedIn:**
 https://www.linkedin.com/in/bonosri-ghose-98a64b199/
 
-Google Scholar:
+**Google Scholar:**
 https://scholar.google.com/citations?user=AoBayBcAAAAJ&hl=en
