@@ -1,4 +1,5 @@
 # Bonosri Ghose
+[Home](README.md) | [Research](research.md) | [Publications](publications.md) | [Contact](contact.md)
 
 ## Earth Observation | Remote Sensing | Food Security | Agricultural Monitoring
 
