@@ -211,7 +211,9 @@ I am interested in pursuing a PhD in:
 * Sustainable Agricultural Systems
 
 My long-term goal is to contribute to the development of innovative Earth Observation solutions that support food security, climate resilience, and sustainable agricultural development.
+## Curriculum Vitae
 
+[Download my CV](CV_Bonosri_Ghose.pdf)
 ---
 
 ## Contact
