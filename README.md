@@ -47,6 +47,22 @@ Methods:
 - SAR and Optical data fusion
 - Machine Learning Classification
 - Accuracy Assessment
+## Publications
+
+### First Author
+
+1. Rain-Fed Rice Yield Fluctuation to Climatic Anomalies in Bangladesh (2021)
+
+2. Climate-induced Rice Yield Anomalies Linked to Large-scale Atmospheric Circulation in Bangladesh (2021)
+
+3. Rice Yield Responses in Bangladesh to Large-scale Atmospheric Oscillation Using Multifactorial Model (2021)
+
+### Co-Author
+
+* Perceived and Actual Risks of Drought in Northern Bangladesh
+* Flood Susceptibility Modeling in the Teesta River Basin
+* Predicting Long-term Regional Drought Patterns in Northeast India
+* Groundwater Potentiality Modeling Using Machine Learning
 
 ### Contact
 
