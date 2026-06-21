@@ -48,14 +48,15 @@ I am seeking PhD opportunities in Agricultural Remote Sensing, Earth Observation
 
 Selected Coursework:
 
+* Basic and Advance GIS
 * Satellite Remote Sensing
 * Spatial Modelling of Land Dynamics
 * Land Monitoring by Advanced Satellite Remote Sensing
 * Applied Geomatics
 * Ecosystem Modelling
-* Agricultural and Rural Policies
 * Smart Technologies for Environmental Engineering
-* Decision Tools and Project Management
+* Elements of Agroecology
+* Agricultural and Rural Policies
 
 ### Master of Science in Disaster Management
 
