@@ -12,6 +12,9 @@ I am an Erasmus Mundus scholar in Geo-Information Science and Earth Observation 
 
 I am currently completing my MSc thesis at Université catholique de Louvain (UCLouvain), Belgium, after completing the first year of the GEM programme at Lund University, Sweden. My academic background combines Disaster Management, Earth Observation, Remote Sensing, and Environmental Modelling, with a strong interest in applying geospatial technologies to address agricultural and food security challenges.
 
+### PhD Interests
+
+I am seeking PhD opportunities in Agricultural Remote Sensing, Earth Observation, Food Security, Environmental Modelling, and Machine Learning applications in Geospatial Science.
 ---
 
 ## Research Interests
@@ -98,7 +101,21 @@ This research investigates the potential of Sentinel-1 SAR and Sentinel-2 optica
 ### Study Area
 
 Dioila, Mali, West Africa
+## Research Outputs
 
+### Study Area Map
+
+![Study Area Map](study_Area_Map.jpg)
+
+### Crop Classification Map
+
+![Crop Classification Map](Crop_Classification_Map.jpg)
+
+### Feature Importance Analysis
+
+![Feature Importance Graph 1](Feature_Importance_Graph_1.png)
+
+![Feature Importance Graph 2](Feature_Importance_Graph_2.png)
 ---
 
 ## Professional Experience
@@ -213,7 +230,7 @@ I am interested in pursuing a PhD in:
 My long-term goal is to contribute to the development of innovative Earth Observation solutions that support food security, climate resilience, and sustainable agricultural development.
 ## Curriculum Vitae
 
-[Download my CV](CV_Bonosri_Ghose.pdf)
+[📄 Download My CV](CV%20of%20Bonosri%20Ghose.pdf)
 ---
 
 ## Contact
