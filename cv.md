@@ -16,7 +16,7 @@ Lund University, Sweden
 
 ---
 
-### Master of Science in Disaster Management
+### Master of Science in Disaster Management (2019 -2020)
 
 Begum Rokeya University, Rangpur, Bangladesh
 
@@ -26,7 +26,7 @@ Thesis:
 
 ---
 
-### Bachelor of Science in Disaster Management
+### Bachelor of Science in Disaster Management (2014 – 2019)
 
 Begum Rokeya University, Rangpur, Bangladesh
 
@@ -38,7 +38,7 @@ Undergraduate Thesis:
 
 ## Professional Experience
 
-### Intern
+### Intern (1st July 2025 – 31st August 2025)
 
 VITO (Flemish Institute for Technological Research), Belgium
 
@@ -47,11 +47,10 @@ Responsibilities:
 - Validation of HRL Vegetated Land Cover Characteristics
 - Quality Assessment
 - Reference Dataset Preparation
-- Agricultural Land Monitoring
 
 ---
 
-### Research Assistant
+### Research Assistant (1 May 2019 –1 May 2021)
 
 Disaster Management E-Learning Centre
 
