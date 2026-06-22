@@ -8,7 +8,7 @@
 
 ### 1.
 
-1.	Ghose, B., Islam, A.R.M.T., Islam, H.M.T. et al. Rain-Fed Rice Yield Fluctuation to Climatic Anomalies in Bangladesh. Int.
+Ghose, B., Islam, A.R.M.T., Islam, H.M.T. et al. Rain-Fed Rice Yield Fluctuation to Climatic Anomalies in Bangladesh. Int.
 J. Plant Prod. (2021). https://doi.org/10.1007/s42106-021-00131-x
 
 
@@ -16,13 +16,13 @@ J. Plant Prod. (2021). https://doi.org/10.1007/s42106-021-00131-x
 
 ### 2.
 
-2.	Ghose, B., Islam, A.R.M.T., Kamruzzaman, M. et al. Climate-induced rice yield anomalies linked to large-scale atmospheric circulation in Bangladesh using multi-statistical modeling. Theor Appl Climatol (2021). https://doi.org/10.1007/s00704-021- 03584-2
+Ghose, B., Islam, A.R.M.T., Kamruzzaman, M. et al. Climate-induced rice yield anomalies linked to large-scale atmospheric circulation in Bangladesh using multi-statistical modeling. Theor Appl Climatol (2021). https://doi.org/10.1007/s00704-021- 03584-2
 
 ---
 
 ### 3.
 
-3.	Ghose, B., Islam, A.R.M.T., Salam, R., Shahid, S., Kamruzzaman, M., Das, S., Elbeltagi, A. and Salam, M.A., 2021. Rice Yield Responses in Bangladesh to Large-scale Atmospheric Oscillation Using Multifactorial Model.
+Ghose, B., Islam, A.R.M.T., Salam, R., Shahid, S., Kamruzzaman, M., Das, S., Elbeltagi, A. and Salam, M.A., 2021. Rice Yield Responses in Bangladesh to Large-scale Atmospheric Oscillation Using Multifactorial Model.
 
 ---
 
