@@ -1,6 +1,6 @@
 # Bonosri Ghose
 
-<img src="PASSPORT SIZE PHOTO.jpg" width="200">
+<img src="bonosri.jpg" width="200">
 
 [Home](README.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md)
 
