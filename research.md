@@ -11,11 +11,11 @@
 ---
 
 ## Research Questions
-i.How effectively do crop types of classification perform with Sentinel-1 and Sentinel-2 data separately and in combination in Mali heterogeneous agricultural field?
+i. How effectively do crop types of classification perform with Sentinel-1 and Sentinel-2 data separately and in combination in Mali heterogeneous agricultural field?
 
-ii.How does the classification accuracy vary across spatially and temporarily in Mali complex crop lands?
+ii. How does the classification accuracy vary across spatially and temporarily in Mali complex crop lands?
 
-iii.Which spectral, textural, or temporal features from Sentinel-1 and Sentinel-2 contribute most to distinguishing different crop types?
+iii. Which spectral, textural, or temporal features from Sentinel-1 and Sentinel-2 contribute most to distinguishing different crop types?
 
 ---
 
