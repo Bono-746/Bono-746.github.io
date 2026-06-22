@@ -8,13 +8,9 @@
 
 ### Crop Type Mapping Using Sentinel-1 and Sentinel-2 in the Smallholder Cropping Systems of Mali
 
-(Research description)
-
 ---
 
 ## Research Objectives
-
-(Objectives)
 
 ---
 
