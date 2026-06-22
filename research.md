@@ -8,42 +8,55 @@
 
 ### Crop Type Mapping Using Sentinel-1 and Sentinel-2 in the Smallholder Cropping Systems of Mali
 
-This research investigates the potential of Sentinel-1 SAR and Sentinel-2 optical satellite imagery for crop type mapping within the heterogeneous agricultural landscapes of Dioila, Mali, West Africa.
-
-Using the Random Forest machine learning algorithm, the study evaluates the performance of Sentinel-1 and Sentinel-2 datasets individually and in combination throughout the main cropping season.
+(Research description)
 
 ---
 
 ## Research Objectives
 
-1. Assess how effectively major crop types can be distinguished using Sentinel-1 and Sentinel-2 data separately and in combination.
-
-2. Evaluate how crop classification accuracy varies spatially and temporally across complex agricultural landscapes.
-
-3. Identify the most important spectral, textural, and temporal features derived from Sentinel-1 and Sentinel-2 imagery for discriminating different crop types.
-
----
-
-## Methods
-
-- Sentinel-1 Synthetic Aperture Radar (SAR)
-- Sentinel-2 Multispectral Imagery
-- Random Forest Classification
-- Google Earth Engine
-- ArcGIS Pro
-- Python
-- Accuracy Assessment
-- Feature Importance Analysis
+(Objectives)
 
 ---
 
 ## Study Area
 
-Dioila, Mali, West Africa
-
-### Study Area Map
+### Dioila, Mali, West Africa
 
 ![Study Area Map](study_Area_Map.jpg)
+
+---
+
+## Research Workflow
+
+The overall workflow used in this study for crop type classification using Sentinel-1 and Sentinel-2 imagery.
+
+![Research Workflow](workflow.jpg)
+
+---
+
+## Methodology
+
+### Data Sources
+
+- Sentinel-1 SAR imagery
+- Sentinel-2 Optical imagery
+- Ground reference data (ASF)
+
+### Processing Steps
+
+1. Data acquisition
+2. Pre-processing
+3. Feature extraction
+4. Random Forest classification
+5. Accuracy assessment
+6. Feature importance analysis
+
+### Tools
+
+- Google Earth Engine
+- ArcGIS Pro
+- Python
+- Random Forest
 
 ---
 
@@ -60,6 +73,15 @@ Dioila, Mali, West Africa
 ![Feature Importance Graph 1](Feature_Importance_Graph_1.png)
 
 ![Feature Importance Graph 2](Feature_Importance_Graph_2.png)
+
+---
+
+## Key Findings
+
+- Combined Sentinel-1 and Sentinel-2 datasets produced the highest classification accuracy.
+- Temporal information improved crop discrimination.
+- Spectral and Textural features were among the most important predictors.
+- Smallholder field heterogeneity remains a challenge for crop classification.
 
 ---
 
