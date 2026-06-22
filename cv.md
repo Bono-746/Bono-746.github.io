@@ -102,3 +102,7 @@ Full scholarship for the Erasmus Mundus GEM Programme.
 ### Bangabandhu Merit Scholarship (2020)
 
 Awarded for academic excellence.
+
+## Curriculum Vitae
+
+📄 [Download My CV](CV%20of%20Bonosri%20Ghose.pdf)
