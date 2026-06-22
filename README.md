@@ -1,6 +1,8 @@
 # Bonosri Ghose
 
-<img src="bonosri.jpg" width="200">
+<img src="bonosri.jpg" width="220">
+
+**Erasmus Mundus Scholar | Geospatial Researcher | Earth Observation & Remote Sensing Specialist**
 
 [Home](README.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md)
 
@@ -12,15 +14,17 @@ Welcome to my academic website.
 
 ## About Me
 
-I am an Erasmus Mundus scholar in Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM) for Food Security. My research focuses on crop type mapping, agricultural monitoring, food security, environmental modelling, and climate change impacts using Sentinel-1, Sentinel-2, machine learning, Google Earth Engine, GIS, and Python.
+I am an Erasmus Mundus Scholar in **Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM) for Food Security**, jointly offered by **Université catholique de Louvain (UCLouvain), Belgium** and **Lund University, Sweden**.
 
-I am currently completing my MSc thesis at Université catholique de Louvain (UCLouvain), Belgium, after completing the first year of the GEM programme at Lund University, Sweden. My academic background combines Disaster Management, Earth Observation, Remote Sensing, and Environmental Modelling, with a strong interest in applying geospatial technologies to address agricultural and food security challenges.
+My research focuses on the application of **Earth Observation, Remote Sensing, Geographic Information Systems (GIS), Machine Learning, and Environmental Modelling** to address challenges related to **agricultural monitoring, crop type mapping, food security, and climate change adaptation**.
+
+I am currently conducting my MSc thesis on crop type mapping in the smallholder farming systems of Mali using Sentinel-1 and Sentinel-2 satellite imagery and machine learning techniques. My academic background combines Disaster Management, Environmental Science, Remote Sensing, and Geospatial Analytics, with a strong interest in developing data-driven solutions for sustainable agricultural development.
 
 ---
 
 ## PhD Interests
 
-I am seeking PhD opportunities in:
+I am actively seeking PhD opportunities in:
 
 * Agricultural Remote Sensing
 * Earth Observation for Food Security
@@ -36,101 +40,37 @@ I am seeking PhD opportunities in:
 
 * Crop Type Mapping
 * Agricultural Monitoring
-* Food Security
 * Earth Observation
 * Remote Sensing
+* Food Security
 * Environmental Modelling
 * Climate Change Adaptation
 * Machine Learning for Geospatial Analysis
 * Geographic Information Systems (GIS)
-* Big Earth Observation Data
-* Crop Yield Estimation
-* Sustainable Agriculture
-
----
-
-## Education
-
-### Erasmus Mundus Scholarship Programme (2024–2026)
-
-**MSc in Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM) for Food Security**
-
-**Université catholique de Louvain (UCLouvain), Belgium**
-
-**Lund University, Sweden**
-
-Selected Coursework:
-
-* Basic and Advanced GIS
-* Satellite Remote Sensing
-* Spatial Modelling of Land Dynamics
-* Land Monitoring by Advanced Satellite Remote Sensing
-* Applied Geomatics
-* Ecosystem Modelling
-* Smart Technologies for Environmental Engineering
-* Elements of Agroecology
-* Agricultural and Rural Policies
-
-### Master of Science in Disaster Management
-
-Begum Rokeya University, Rangpur, Bangladesh
-
-**Thesis:**
-
-Differential Responses of Rice Yield Fluctuation to Climate Changes in Different Sub-regions of Bangladesh
-
-### Bachelor of Science in Disaster Management
-
-Begum Rokeya University, Rangpur, Bangladesh
-
-**Undergraduate Thesis:**
-
-Spatiotemporal Variation on Wheat Yield under Climate Change Conditions in Northwestern Bangladesh
 
 ---
 
 ## Current Research
 
-### Crop Type Mapping Using Sentinel-1 and Sentinel-2 in the Smallholder Cropping System of the Cotton Belt in Mali
+### Crop Type Mapping Using Sentinel-1 and Sentinel-2 in the Smallholder Cropping Systems of Mali
 
-This research investigates the potential of Sentinel-1 SAR and Sentinel-2 optical satellite imagery for crop type mapping in the heterogeneous agricultural landscapes of Dioila, Mali, West Africa. Using the Random Forest machine learning algorithm, the study evaluates the performance of Sentinel-1 and Sentinel-2 datasets individually and in combination throughout the main cropping season.
-
-### Research Objectives
-
-1. Assess how effectively major crop types can be distinguished using Sentinel-1 and Sentinel-2 data separately and in combination within Mali's heterogeneous agricultural fields.
-
-2. Evaluate how crop classification accuracy varies spatially and temporally across complex agricultural landscapes.
-
-3. Identify the most important spectral, textural, and temporal features derived from Sentinel-1 and Sentinel-2 imagery for discriminating different crop types.
-
-### Methods
-
-* Sentinel-1 Synthetic Aperture Radar (SAR)
-* Sentinel-2 Multispectral Imagery
-* Random Forest Classification
-* Google Earth Engine
-* ArcGIS Pro
-* Python
-* Accuracy Assessment
-* Feature Importance Analysis
+My current research investigates the potential of Sentinel-1 SAR and Sentinel-2 optical satellite imagery for crop type classification within the heterogeneous agricultural landscapes of Dioila, Mali, West Africa. Using the Random Forest machine learning algorithm, the study evaluates the performance of Sentinel-1 and Sentinel-2 datasets individually and in combination throughout the main cropping season.
 
 ### Study Area
 
 Dioila, Mali, West Africa
 
----
+### Research Outputs
 
-## Research Outputs
-
-### Study Area Map
+#### Study Area Map
 
 ![Study Area Map](study_Area_Map.jpg)
 
-### Crop Classification Map
+#### Crop Classification Map
 
 ![Crop Classification Map](Crop_Classification_Map.jpg)
 
-### Feature Importance Analysis
+#### Feature Importance Analysis
 
 ![Feature Importance Graph 1](Feature_Importance_Graph_1.png)
 
@@ -138,106 +78,9 @@ Dioila, Mali, West Africa
 
 ---
 
-## Professional Experience
-
-### Intern – VITO (Flemish Institute for Technological Research), Belgium
-
-**Evaluating the European Agricultural Area**
-
-Responsibilities:
-
-* Evaluating and validating High-Resolution Layers (HRL) Vegetated Land Cover Characteristics (VLCC) products.
-* Conducting quality assessment using visual interpretation and statistical methods.
-* Preparing reference datasets through high-resolution imagery interpretation.
-* Supporting agricultural land monitoring and Earth Observation applications.
-
-### Research Assistant
-
-**Disaster Management E-Learning Centre**
-
-Begum Rokeya University, Bangladesh
-
-Responsibilities:
-
-* Data Collection (FGD, KII, IDI)
-* Data Analysis and Interpretation
-* Literature Review
-* Research Design and Method Selection
-* Scientific Writing and Reporting
-
----
-
-## Selected Publications
-
-### First Author Publications
-
-1. Ghose, B., Islam, A.R.M.T., Islam, H.M.T. et al. (2021). Rain-Fed Rice Yield Fluctuation to Climatic Anomalies in Bangladesh. *International Journal of Plant Production*.
-
-2. Ghose, B., Islam, A.R.M.T., Kamruzzaman, M. et al. (2021). Climate-induced Rice Yield Anomalies Linked to Large-scale Atmospheric Circulation in Bangladesh Using Multi-statistical Modelling. *Theoretical and Applied Climatology*.
-
-3. Ghose, B., Islam, A.R.M.T., Salam, R., Shahid, S., Kamruzzaman, M., Das, S., Elbeltagi, A., and Salam, M.A. (2021). Rice Yield Responses in Bangladesh to Large-scale Atmospheric Oscillation Using Multifactorial Modelling.
-
-### Selected Co-Author Publications
-
-* Perceived and Actual Risks of Drought in Northern Bangladesh.
-* Flood Susceptibility Modelling in the Teesta River Basin Using Ensemble Machine Learning Algorithms.
-* Predicting Long-term Regional Drought Patterns in Northeast India.
-* Groundwater Potentiality Modelling Using Machine Learning and Statistical Techniques.
-* Estimating Ground-level PM2.5 Using Machine Learning Algorithms in Dhaka, Bangladesh.
-
----
-
-## Technical Skills
-
-### Remote Sensing & GIS
-
-* ArcGIS Pro
-* QGIS
-* Google Earth Engine
-* Sentinel-1
-* Sentinel-2
-* TerrSet
-
-### Programming
-
-* Python
-* Geospatial Data Analysis
-* Machine Learning for Remote Sensing
-
-### Research Methods
-
-* Spatial Analysis
-* Environmental Modelling
-* Accuracy Assessment
-* Statistical Analysis
-* Climate Impact Assessment
-
----
-
-## Awards and Scholarships
-
-### Erasmus+ Scholarship (2024–2026)
-
-Full scholarship awarded for the Erasmus Mundus MSc Programme in Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM) for Food Security.
-
-### Bangabandhu Merit Scholarship (2020)
-
-Awarded for outstanding academic performance at Begum Rokeya University, Bangladesh.
-
----
-
-## Conference and Workshop Participation
-
-* GEM Joint Programme Event, University of Twente, Netherlands (2025)
-* International Conference on Earth and Environmental Science & Technology for Sustainable Development (ICEEST), Bangladesh (2020)
-* IUCN Workshop on Watershed Management Policy Development, Bangladesh (2020)
-* International Webinar on Environment, Development and Sustainability, India (2020)
-
----
-
 ## Future Research Goals
 
-My long-term goal is to contribute to the development of innovative Earth Observation solutions that support food security, climate resilience, and sustainable agricultural development.
+My long-term goal is to contribute to the development of innovative Earth Observation and geospatial solutions that support food security, climate resilience, sustainable agriculture, and environmental management. I am particularly interested in integrating satellite remote sensing, machine learning, and spatial modelling approaches to improve agricultural decision-making and resource management in data-scarce regions.
 
 ---
 
@@ -249,17 +92,12 @@ My long-term goal is to contribute to the development of innovative Earth Observ
 
 ## Contact
 
-**Email:**
-[bonosri.bgd@gmail.com](mailto:bonosri.bgd@gmail.com)
+📧 Email: [bonosri.bgd@gmail.com](mailto:bonosri.bgd@gmail.com)
 
-**Academic Email:**
-[bonosri.ghose@student.uclouvain.be](mailto:bonosri.ghose@student.uclouvain.be)
+🎓 Academic Email: [bonosri.ghose@student.uclouvain.be](mailto:bonosri.ghose@student.uclouvain.be)
 
-**GitHub:**
-https://github.com/Bono-746
+💻 GitHub: https://github.com/Bono-746
 
-**LinkedIn:**
-https://www.linkedin.com/in/bonosri-ghose-98a64b199/
+🔗 LinkedIn: https://www.linkedin.com/in/bonosri-ghose-98a64b199/
 
-**Google Scholar:**
-https://scholar.google.com/citations?user=AoBayBcAAAAJ&hl=en
+📚 Google Scholar: https://scholar.google.com/citations?user=AoBayBcAAAAJ&hl=en
