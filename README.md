@@ -3,15 +3,6 @@
 </p>
 
 # Bonosri Ghose
-
-<p align="center">
-  <img src="bonosri.JPG" width="220">
-</p>
-
-<p align="center">
-Earth Observation | Remote Sensing | Food Security
-</p>
-
 <img src="bonosri.JPG" width="220">
 
 ## Earth Observation | Remote Sensing | Food Security | Agricultural Monitoring
