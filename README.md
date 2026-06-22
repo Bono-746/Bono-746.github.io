@@ -2,11 +2,11 @@
 
 <img src="bonosri.jpg" width="220">
 
-**Erasmus Mundus Scholar | Geospatial Researcher | Earth Observation & Remote Sensing Specialist**
+## Earth Observation | Remote Sensing | Food Security | Agricultural Monitoring
 
 [Home](README.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md)
 
-## Earth Observation | Remote Sensing | Food Security | Agricultural Monitoring
+
 
 Welcome to my academic website.
 
