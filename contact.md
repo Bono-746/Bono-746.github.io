@@ -32,11 +32,7 @@ https://github.com/Bono-746
 
 ---
 
-## Location
 
-Université catholique de Louvain (UCLouvain)
-
-Belgium
 
 ---
 
