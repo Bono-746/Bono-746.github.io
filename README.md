@@ -14,11 +14,12 @@ Welcome to my academic website.
 
 ## About Me
 
-I am an Erasmus Mundus Scholar in **Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM) for Food Security**, jointly offered by **Université catholique de Louvain (UCLouvain), Belgium** and **Lund University, Sweden**.
+I am an Erasmus Mundus Scholar in Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM) for Food Security, jointly offered by Université catholique de Louvain (UCLouvain), Belgium and Lund University, Sweden.
 
-My research focuses on the application of **Earth Observation, Remote Sensing, Geographic Information Systems (GIS), Machine Learning, and Environmental Modelling** to address challenges related to **agricultural monitoring, crop type mapping, food security, and climate change adaptation**.
+My research focuses on the application of Earth Observation, Remote Sensing, Geographic Information Systems (GIS), Machine Learning, and Environmental Modelling to address challenges related to agricultural monitoring, crop type mapping, food security, and climate change adaptation.
 
-I am currently conducting my MSc thesis on crop type mapping in the smallholder farming systems of Mali using Sentinel-1 and Sentinel-2 satellite imagery and machine learning techniques. My academic background combines Disaster Management, Environmental Science, Remote Sensing, and Geospatial Analytics, with a strong interest in developing data-driven solutions for sustainable agricultural development.
+I recently completed and defended my MSc thesis entitled "Crop Type Mapping Using Sentinel-1 and Sentinel-2 in the Smallholder Cropping Systems of the Cotton Belt in Mali". The research explored the use of multi-temporal SAR and optical satellite imagery combined with Random Forest classification to improve crop type mapping in heterogeneous agricultural landscapes.
+
 
 ---
 
