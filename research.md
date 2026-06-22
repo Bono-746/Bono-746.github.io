@@ -40,7 +40,7 @@ The overall workflow used in this study for crop type classification using Senti
 
 - Sentinel-1 SAR imagery
 - Sentinel-2 Optical imagery
-- Ground reference data (AFS)
+- Ground reference data
 
 ### Processing Steps
 
