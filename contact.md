@@ -33,9 +33,6 @@ https://github.com/Bono-746
 ---
 
 
-
----
-
 I am open to collaborations and PhD opportunities in:
 
 - Agricultural Remote Sensing
