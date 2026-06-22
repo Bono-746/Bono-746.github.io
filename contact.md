@@ -1,24 +1,49 @@
 # Contact
 
-Email:
-[bonosri.bgd@gmail.com](mailto:bonosri.bgd@gmail.com)
+[Home](README.md) | [Research](research.md) | [Publications](publications.md) | [CV](cv.md) | [Contact](contact.md)
 
-Academic Email:
-[bonosri.ghose@student.uclouvain.be](mailto:bonosri.ghose@student.uclouvain.be)
+---
 
-GitHub:
-https://github.com/Bono-746
+## Get in Touch
 
-LinkedIn:
+### Personal Email
+
+📧 bonosri.bgd@gmail.com
+
+### Academic Email
+
+📧 bonosri.ghose@student.uclouvain.be
+
+---
+
+## Professional Profiles
+
+### LinkedIn
+
 https://www.linkedin.com/in/bonosri-ghose-98a64b199/
 
-Google Scholar:
-https://scholar.google.com/citations?user=YOUR_ID
+### Google Scholar
 
-Research Interests:
+https://scholar.google.com/citations?user=AoBayBcAAAAJ&hl=en
 
-* Earth Observation
-* Food Security
-* Agricultural Monitoring
-* Remote Sensing
-* Environmental Modelling
+### GitHub
+
+https://github.com/Bono-746
+
+---
+
+## Location
+
+Université catholique de Louvain (UCLouvain)
+
+Belgium
+
+---
+
+I am open to collaborations and PhD opportunities in:
+
+- Agricultural Remote Sensing
+- Earth Observation
+- Food Security
+- Environmental Modelling
+- Machine Learning for Geospatial Science
