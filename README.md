@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.jpg" width="100%">
-</p>
+
 
 # Bonosri Ghose
 <img src="bonosri.JPG" width="220">
