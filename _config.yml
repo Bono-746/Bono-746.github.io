@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bonosri.jpg"
+  avatar           : "bonosri.JPG"
   name             : "Bonosri Ghose"
   pronouns         : # example: "she/her"  
   bio              : "Erasmus Mundus Scholar | Earth Observation | Remote Sensing | Food Security"
