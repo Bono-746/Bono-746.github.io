@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
 
-I am an Erasmus Mundus graduate in Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM), with a specialization in Food Security. I completed the programme at Lund University, Sweden, and UCLouvain, Belgium.
+I am an Erasmus Mundus graduate in Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM), specializing in Food Security. I completed the programme at Lund University, Sweden, and UCLouvain, Belgium.
 
 My research interests lie at the intersection of Earth Observation, remote sensing, GIS, environmental modelling, and machine learning. I am particularly interested in applying satellite observations and geospatial methods to agricultural monitoring, crop mapping, food security, climate variability, and environmental change.
 
@@ -16,7 +15,7 @@ For my master's thesis, I investigated crop type mapping in the smallholder crop
 
 Previously, I completed an internship at VITO (Flemish Institute for Technological Research), Belgium, where I worked on the evaluation and validation of European High Resolution Layer Vegetated Land Cover Characteristics (HRL-VLCC) products.
 
-Before joining the Erasmus Mundus programme, I studied Disaster Management in Bangladesh and worked as a Research Assistant at Begum Rokeya University. My earlier research focused on climate variability, agricultural production, drought, floods, and environmental hazards.
+Before joining the Erasmus Mundus programme, I studied Disaster Management at Begum Rokeya University, Bangladesh, where I also worked as a Research Assistant. My earlier research focused on climate variability, agricultural production, drought, floods, and environmental hazards.
 
 ## Research Interests
 
@@ -30,7 +29,7 @@ Before joining the Erasmus Mundus programme, I studied Disaster Management in Ba
 - Climate and Environmental Change
 - Food Security and Sustainable Agriculture
 
-## Current Research Focus
+## Master's Research
 
 ### Crop Type Mapping Using Sentinel-1 and Sentinel-2 in the Smallholder Cropping System of the Cotton Belt in Mali
 
@@ -46,15 +45,10 @@ The study compared Sentinel-1, Sentinel-2, and fused multi-sensor datasets acros
 
 As a research intern in the Remote Sensing Department, I worked on the evaluation and validation of High Resolution Layer Vegetated Land Cover Characteristics (HRL-VLCC) products, with a particular focus on agricultural areas.
 
-### Begum Rokeya University, Bangladesh
+### Disaster Management E-Learning Centre, Begum Rokeya University, Bangladesh
 
-As a Research Assistant at the Disaster Management E-Learning Centre, I contributed to research involving environmental hazards, climate variability, data analysis, literature review, research design, and scientific reporting.
-
-## Selected Research Areas
-
-My research experience spans agricultural Earth Observation, climate–agriculture interactions, crop classification, drought and flood analysis, environmental modelling, and machine-learning applications in geospatial science.
+As a Research Assistant, I contributed to research involving environmental hazards, climate variability, data analysis, literature review, research design, and scientific reporting.
 
 ## Future Research
 
-I am interested in doctoral research involving Earth Observation, multi-sensor remote sensing, satellite time series, GeoAI, agricultural and environmental monitoring, crop yield estimation, and climate–environment interactions. My long-term goal is to contribute to Earth Observation approaches that support climate resilience, sustainable agriculture, and evidence-based environmental decision-making.
-
+I am interested in pursuing doctoral research involving Earth Observation, multi-sensor remote sensing, satellite time series, GeoAI, agricultural and environmental monitoring, crop yield estimation, and climate–environment interactions. My long-term goal is to contribute to Earth Observation approaches that support climate resilience, sustainable agriculture, and evidence-based environmental decision-making.
