@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV (PDF)](/academicpages-test/Bonosri_Ghose_CV.pdf)
+[Download CV (PDF)](/academicpages-test/Bonosri_Ghose_CV.pdf){: .btn .btn--primary }
 
 ## Education
 
