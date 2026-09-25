@@ -1,13 +1,16 @@
 ---
 layout: archive
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-### Education
+## Education
+
 ### Erasmus Mundus Joint Master of Science
+
 Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM) – Food Security  
 Lund University, Sweden & UCLouvain, Belgium  
 September 2024 – June 2026
@@ -15,12 +18,14 @@ September 2024 – June 2026
 Thesis: *Crop Type Mapping Using Sentinel-1 and Sentinel-2 in the Smallholder Cropping System of the Cotton Belt in Mali*
 
 ### Master of Science in Disaster Management
+
 Begum Rokeya University, Rangpur, Bangladesh  
 March 2019 – October 2020
 
 Thesis: *Differential Responses of Rice Yield Fluctuation to Climate Changes in Different Sub-Regions of Bangladesh*
 
 ### Bachelor of Science in Disaster Management
+
 Begum Rokeya University, Rangpur, Bangladesh  
 April 2014 – February 2019
 
@@ -31,6 +36,7 @@ Undergraduate Thesis: *Spatiotemporal Variation in Wheat Yield under Climate Cha
 ## Research and Professional Experience
 
 ### Intern – Remote Sensing
+
 VITO (Flemish Institute for Technological Research), Mol, Belgium  
 July 2025 – August 2025
 
@@ -40,6 +46,7 @@ July 2025 – August 2025
 - Worked with high-resolution imagery and geospatial datasets for agricultural land monitoring.
 
 ### Research Assistant
+
 Disaster Management E-Learning Centre, Begum Rokeya University, Rangpur, Bangladesh  
 May 2019 – May 2021
 
@@ -67,15 +74,19 @@ May 2019 – May 2021
 ## Technical Skills
 
 ### Remote Sensing and GIS
+
 Sentinel-1 SAR, Sentinel-2 optical imagery, multi-temporal satellite data analysis, vegetation indices, image classification, spatial analysis, raster and vector processing
 
 ### Programming and Data Analysis
-Python
+
+Python, R, MATLAB, SQL
 
 ### Geospatial Platforms and Software
+
 Google Earth Engine, QGIS, ArcGIS Pro, TerrSet
 
 ### Machine Learning
+
 Random Forest, Gradient Tree Boosting, supervised classification, feature importance analysis, accuracy assessment
 
 ---
@@ -93,9 +104,11 @@ I have authored and co-authored peer-reviewed research on climate variability, a
 ## Awards and Scholarships
 
 ### Erasmus+ Scholarship
+
 Erasmus Mundus Joint Master’s Programme in Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM), 2024–2026.
 
 ### Bangabandhu Merit Scholarship
+
 Awarded in 2020 for academic excellence during undergraduate studies at Begum Rokeya University.
 
 ---
