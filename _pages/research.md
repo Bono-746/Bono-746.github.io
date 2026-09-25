@@ -82,16 +82,8 @@ Cross-temporal sensor fusion further demonstrated that earlier optical observati
 The feature-importance analysis was used to identify the satellite-derived predictors that contributed most to crop type discrimination and to examine the relative contribution of spectral, textural, temporal, and SAR features.
 
 <p align="center">
-  <img src="{{ '/images/Feature_Importance_Graph_1.png' | relative_url }}" alt="Feature importance analysis" width="85%">
+  <em>Feature importance of the highest-performing fused Sentinel-1 and Sentinel-2 classification at the harvesting stage.</em>
 </p>
-
-<p align="center"><em>Feature importance analysis for the crop classification experiments.</em></p>
-
-<p align="center">
-  <img src="{{ '/images/Feature_Importance_Graph_2.png' | relative_url }}" alt="Feature importance analysis" width="85%">
-</p>
-
-<p align="center"><em>Importance of satellite-derived features across the classification experiments.</em></p>
 ## Research Internship
 
 ### VITO – Flemish Institute for Technological Research, Belgium
