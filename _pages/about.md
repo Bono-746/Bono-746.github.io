@@ -15,4 +15,4 @@ Before joining the Erasmus Mundus programme, I completed both a Bachelor of Scie
 
 My broader research interests include remote sensing and Earth Observation applications in environmental and ecosystem monitoring, agriculture and food security, climate and environmental change, natural hazards, and other interdisciplinary environmental research. I am particularly interested in advancing my experience in satellite time-series analysis, multi-sensor data fusion, machine learning, and GeoAI for environmental applications.
 
-[Explore my research →](/academicpages-test/research/)
+[Explore my research →](/research/)
