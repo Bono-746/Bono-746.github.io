@@ -81,7 +81,7 @@ Sentinel-1 SAR, Sentinel-2 optical imagery, multi-temporal satellite data analys
 
 ### Programming and Data Analysis
 
-Python, R, MATLAB, SQL
+Python and MATLAB
 
 ### Geospatial Platforms and Software
 
