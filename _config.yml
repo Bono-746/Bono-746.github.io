@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Bonosri Ghose"
 description              : &description "Academic website of Bonosri Ghose | Earth Observation, Remote Sensing, GIS, Environmental Modelling and Agricultural Monitoring"
 url                      : "https://bono-746.github.io"
-baseurl                  : "/academicpages-test"
-repository               : "Bono-746/academicpages-test"
+baseurl                  : ""
+repository               : "Bono-746/Bono-746.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
