@@ -62,14 +62,15 @@ May 2019 – May 2021
 ## Research Interests
 
 - Earth Observation and Remote Sensing
-- Agricultural Remote Sensing
-- Crop Mapping and Food Security
-- Multi-Sensor and Spatiotemporal Data Fusion
-- GeoAI and Machine Learning
+- Multi-Sensor and Multi-Temporal Remote Sensing
+- Satellite Time-Series Analysis
+- Machine Learning and GeoAI
+- Environmental and Ecosystem Monitoring
+- Agricultural Remote Sensing and Food Security
 - Climate and Environmental Change
-- Environmental Monitoring
-- Geospatial Big Data and Spatial Analysis
-- Climate Change Adaptation
+- Natural Hazard Applications
+- GIS and Spatial Analysis
+- Environmental Modelling
 
 ---
 
@@ -97,7 +98,7 @@ Random Forest, Gradient Tree Boosting, supervised classification, feature import
 
 I have authored and co-authored peer-reviewed research on climate variability, agricultural production, drought, floods, temperature extremes, environmental hazards, and machine-learning applications.
 
-[View my complete publication list](/academicpages-test/publications/)
+[View my complete publication list](/publications/)
 
 [Google Scholar](https://scholar.google.com/citations?user=AoBayBcAAAAJ&hl=en)
 
