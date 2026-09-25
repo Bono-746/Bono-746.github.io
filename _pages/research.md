@@ -4,6 +4,12 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+.page__content p:not([align="center"]) {
+  text-align: justify;
+}
+</style>
+
 ## Master's Thesis
 
 ### Crop Type Mapping Using Sentinel-1 and Sentinel-2 in the Smallholder Cropping System of the Cotton Belt in Mali
@@ -22,6 +28,7 @@ The research evaluated Sentinel-1 and Sentinel-2 individually and in combination
 ## Study Area
 
 The study was conducted in Dioila, located within the cotton-growing region of Mali, West Africa. The region is characterized by heterogeneous smallholder agricultural systems with relatively small and diverse agricultural parcels.
+
 ### Study Area Map
 
 <p align="center">
@@ -30,17 +37,15 @@ The study was conducted in Dioila, located within the cotton-growing region of M
 
 <p align="center"><em>Study area and reference data distribution in Dioila, Mali.</em></p>
 
-
 ## Research Workflow
 
 The research workflow included reference-data preparation, Sentinel-1 and Sentinel-2 preprocessing, feature extraction, temporal dataset construction, machine-learning classification, accuracy assessment, and analysis of feature importance.
+
 <p align="center">
   <img src="{{ '/images/workflow.jpg' | relative_url }}" alt="Research workflow for crop type mapping" width="90%">
 </p>
 
 <p align="center"><em>Overall research workflow for multi-temporal and multi-sensor crop type classification.</em></p>
-
-
 
 ## Satellite Data and Methods
 
@@ -69,6 +74,7 @@ Sentinel-2 optical observations provided stronger crop discrimination than Senti
 The results also demonstrated the importance of temporal information, showing that observations acquired during later stages of crop development can provide valuable information for distinguishing crop types in heterogeneous smallholder farming systems.
 
 Cross-temporal sensor fusion further demonstrated that earlier optical observations can provide complementary information when concurrent Sentinel-2 imagery is unavailable.
+
 ### Crop Classification Map
 
 <p align="center">
@@ -80,6 +86,7 @@ Cross-temporal sensor fusion further demonstrated that earlier optical observati
 ### Feature Importance
 
 The feature-importance analysis was used to identify the satellite-derived predictors that contributed most to crop type discrimination and to examine the relative contribution of spectral, textural, temporal, and SAR features.
+
 <p align="center">
   <img src="{{ '/images/Feature_Importance_Graph_1.png' | relative_url }}" alt="Feature importance analysis" width="85%">
 </p>
@@ -91,6 +98,7 @@ The feature-importance analysis was used to identify the satellite-derived predi
 <p align="center">
   <em>Feature importance of the highest-performing fused Sentinel-1 and Sentinel-2 classification at the harvesting stage.</em>
 </p>
+
 ## Research Internship
 
 ### VITO – Flemish Institute for Technological Research, Belgium
