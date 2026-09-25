@@ -58,7 +58,7 @@ Sentinel-1 and Sentinel-2 observations were combined to investigate whether comp
 
 ### Machine Learning
 
-Machine-learning classification was applied to distinguish crop and non-crop land-cover classes using the multi-temporal satellite features. Classification performance was evaluated using independent reference data and standard accuracy metrics.
+Random Forest (RF) classifier was applied to distinguish crop and non-crop land-cover classes using the multi-temporal satellite features. Classification performance was evaluated using independent reference data and standard accuracy metrics.
 
 ## Key Findings
 
@@ -79,7 +79,7 @@ Cross-temporal sensor fusion further demonstrated that earlier optical observati
 
 ### Feature Importance
 
-The feature-importance analysis was used to examine the contribution of different satellite-derived predictors to crop classification.
+The feature-importance analysis was used to identify the satellite-derived predictors that contributed most to crop type discrimination and to examine the relative contribution of spectral, textural, temporal, and SAR features.
 
 <p align="center">
   <img src="{{ '/images/Feature_Importance_Graph_1.png' | relative_url }}" alt="Feature importance analysis" width="85%">
