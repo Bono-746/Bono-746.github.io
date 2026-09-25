@@ -24,11 +24,24 @@ The research evaluated Sentinel-1 and Sentinel-2 individually and in combination
 The study was conducted in Dioila, located within the cotton-growing region of Mali, West Africa. The region is characterized by heterogeneous smallholder agricultural systems with relatively small and diverse agricultural parcels.
 ### Study Area Map
 
-![Study area of the research in Dioila, Mali]({{ '/images/study_Area_Map.jpg' | relative_url }})
+<p align="center">
+  <img src="{{ '/images/study_Area_Map.jpg' | relative_url }}" alt="Study area of the research in Dioila, Mali" width="85%">
+</p>
+
+<p align="center"><em>Study area and reference data distribution in Dioila, Mali.</em></p>
+
+
 ## Research Workflow
 
 The research workflow included reference-data preparation, Sentinel-1 and Sentinel-2 preprocessing, feature extraction, temporal dataset construction, machine-learning classification, accuracy assessment, and analysis of feature importance.
-![Research workflow for crop type mapping using Sentinel-1 and Sentinel-2]({{ '/images/workflow.jpg' | relative_url }})
+<p align="center">
+  <img src="{{ '/images/workflow.jpg' | relative_url }}" alt="Research workflow for crop type mapping" width="90%">
+</p>
+
+<p align="center"><em>Overall research workflow for multi-temporal and multi-sensor crop type classification.</em></p>
+
+
+
 ## Satellite Data and Methods
 
 ### Sentinel-1
@@ -58,15 +71,29 @@ The results also demonstrated the importance of temporal information, showing th
 Cross-temporal sensor fusion further demonstrated that earlier optical observations can provide complementary information when concurrent Sentinel-2 imagery is unavailable.
 ### Crop Classification Map
 
-![Crop classification map]({{ '/images/Crop_Classification_Map.jpg' | relative_url }})
+<p align="center">
+  <img src="{{ '/images/Crop_Classification_Map.jpg' | relative_url }}" alt="Crop classification map" width="90%">
+</p>
+
+<p align="center"><em>Crop type classification map derived from satellite observations and machine-learning classification.</em></p>
 
 ### Feature Importance
 
 The feature-importance analysis was used to examine the contribution of different satellite-derived predictors to crop classification.
 
-![Feature importance analysis]({{ '/images/Feature_Importance_Graph_1.png' | relative_url }})
+The feature-importance analysis was used to examine the contribution of different satellite-derived variables to crop type discrimination.
 
-![Feature importance analysis]({{ '/images/Feature_Importance_Graph_2.png' | relative_url }})
+<p align="center">
+  <img src="{{ '/images/Feature_Importance_Graph_1.png' | relative_url }}" alt="Feature importance analysis" width="85%">
+</p>
+
+<p align="center"><em>Feature importance analysis for the crop classification experiments.</em></p>
+
+<p align="center">
+  <img src="{{ '/images/Feature_Importance_Graph_2.png' | relative_url }}" alt="Feature importance analysis" width="85%">
+</p>
+
+<p align="center"><em>Importance of satellite-derived features across the classification experiments.</em></p>
 ## Research Internship
 
 ### VITO – Flemish Institute for Technological Research, Belgium
