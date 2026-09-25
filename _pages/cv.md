@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-
+### Education
 ### Erasmus Mundus Joint Master of Science
 Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM) – Food Security  
 Lund University, Sweden & UCLouvain, Belgium  
