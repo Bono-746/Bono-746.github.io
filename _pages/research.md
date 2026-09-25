@@ -81,8 +81,6 @@ Cross-temporal sensor fusion further demonstrated that earlier optical observati
 
 The feature-importance analysis was used to examine the contribution of different satellite-derived predictors to crop classification.
 
-The feature-importance analysis was used to examine the contribution of different satellite-derived variables to crop type discrimination.
-
 <p align="center">
   <img src="{{ '/images/Feature_Importance_Graph_1.png' | relative_url }}" alt="Feature importance analysis" width="85%">
 </p>
