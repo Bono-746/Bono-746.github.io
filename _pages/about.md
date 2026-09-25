@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "About Me"
@@ -6,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
 
 I am an Erasmus Mundus graduate in Geo-Information Science and Earth Observation for Environmental Modelling and Management (GEM), specializing in Food Security, jointly trained at Lund University, Sweden, and UCLouvain, Belgium. My research interests broadly lie in Earth Observation and remote sensing, with particular interest in multi-sensor and multi-temporal satellite data analysis, GIS, machine learning, GeoAI, and environmental modelling for understanding and monitoring changes in the Earth's surface and environment.
 
