@@ -84,13 +84,10 @@ The feature-importance analysis was used to identify the satellite-derived predi
   <img src="{{ '/images/Feature_Importance_Graph_1.png' | relative_url }}" alt="Feature importance analysis" width="85%">
 </p>
 
-<p align="center"><em>Feature importance analysis for the crop classification experiments.</em></p>
-
 <p align="center">
   <img src="{{ '/images/Feature_Importance_Graph_2.png' | relative_url }}" alt="Feature importance analysis" width="85%">
 </p>
 
-<p align="center"><em>Importance of satellite-derived features across the classification experiments.</em></p>
 <p align="center">
   <em>Feature importance of the highest-performing fused Sentinel-1 and Sentinel-2 classification at the harvesting stage.</em>
 </p>
