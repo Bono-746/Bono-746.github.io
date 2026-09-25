@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -72,7 +71,7 @@ May 2019 – May 2021
 Sentinel-1 SAR, Sentinel-2 optical imagery, multi-temporal satellite data analysis, vegetation indices, image classification, spatial analysis, raster and vector processing
 
 ### Programming and Data Analysis
-Python, R, MATLAB, SQL
+Python
 
 ### Geospatial Platforms and Software
 Google Earth Engine, QGIS, ArcGIS Pro, TerrSet
