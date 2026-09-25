@@ -5,32 +5,56 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+My research publications cover climate variability, agricultural production, drought, floods, temperature extremes, environmental hazards, air quality, and machine-learning applications in environmental research.
 
-{% include base_path %}
+For a complete and updated publication record, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=AoBayBcAAAAJ&hl=en).
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Peer-Reviewed Publications
 
+### 2025
 
+1. Enhancing flood susceptibility mapping in Meghna River basin by introducing ensemble Naive Bayes with stacking algorithms.  
+   *Co-author, 2025.*
 
+### 2024
+
+2. Predicting long term regional drought pattern in Northeast India using advanced statistical technique and wavelet-machine learning approach.  
+   *Co-author, 2024.*
+
+### 2023
+
+3. Estimating ground-level PM2.5 using subset regression model and machine learning algorithms in Asian megacity, Dhaka, Bangladesh.  
+   *Co-author, 2023.*
+
+### 2022
+
+4. Spatiotemporal trends of temperature extremes in Bangladesh under changing climate using multi-statistical techniques.  
+   *Co-author, 2022.*
+
+5. Landslide susceptibility modeling in a complex mountainous region of Sikkim Himalaya using new hybrid data mining approach.  
+   *Co-author, 2022.*
+
+6. Developing groundwater potentiality models by coupling ensemble machine learning algorithms and statistical techniques for sustainable groundwater management.  
+   *Co-author, 2022.*
+
+### 2021
+
+7. Rain-fed rice yield fluctuation to climatic anomalies in Bangladesh.  
+   *First author, 2021.*
+
+8. Rice yield responses in Bangladesh to large-scale atmospheric oscillation using multifactorial model.  
+   *First author, 2021.*
+
+9. Climate-induced rice yield anomalies linked to large-scale atmospheric circulation in Bangladesh using multi-statistical modeling.  
+   *First author, 2021.*
+
+### 2020
+
+10. Flood susceptibility modeling in Teesta River basin, Bangladesh using novel ensembles of bagging algorithms.  
+    *Co-author, 2020.*
+
+---
+
+## Research Profiles
+
+[Google Scholar](https://scholar.google.com/citations?user=AoBayBcAAAAJ&hl=en)
