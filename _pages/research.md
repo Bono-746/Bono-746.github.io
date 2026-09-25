@@ -22,11 +22,13 @@ The research evaluated Sentinel-1 and Sentinel-2 individually and in combination
 ## Study Area
 
 The study was conducted in Dioila, located within the cotton-growing region of Mali, West Africa. The region is characterized by heterogeneous smallholder agricultural systems with relatively small and diverse agricultural parcels.
+### Study Area Map
 
+![Study area of the research in Dioila, Mali]({{ '/images/study_Area_Map.jpg' | relative_url }})
 ## Research Workflow
 
 The research workflow included reference-data preparation, Sentinel-1 and Sentinel-2 preprocessing, feature extraction, temporal dataset construction, machine-learning classification, accuracy assessment, and analysis of feature importance.
-
+![Research workflow for crop type mapping using Sentinel-1 and Sentinel-2]({{ '/images/workflow.jpg' | relative_url }})
 ## Satellite Data and Methods
 
 ### Sentinel-1
@@ -54,7 +56,17 @@ Sentinel-2 optical observations provided stronger crop discrimination than Senti
 The results also demonstrated the importance of temporal information, showing that observations acquired during later stages of crop development can provide valuable information for distinguishing crop types in heterogeneous smallholder farming systems.
 
 Cross-temporal sensor fusion further demonstrated that earlier optical observations can provide complementary information when concurrent Sentinel-2 imagery is unavailable.
+### Crop Classification Map
 
+![Crop classification map]({{ '/images/Crop_Classification_Map.jpg' | relative_url }})
+
+### Feature Importance
+
+The feature-importance analysis was used to examine the contribution of different satellite-derived predictors to crop classification.
+
+![Feature importance analysis]({{ '/images/Feature_Importance_Graph_1.png' | relative_url }})
+
+![Feature importance analysis]({{ '/images/Feature_Importance_Graph_2.png' | relative_url }})
 ## Research Internship
 
 ### VITO – Flemish Institute for Technological Research, Belgium
