@@ -7,9 +7,9 @@ author_profile: true
 
 ## Get in Touch
 
-I am interested in research opportunities and collaborations in Earth Observation, Remote Sensing, GIS, GeoAI, agricultural monitoring, food security, and environmental research.
+I am interested in research opportunities and collaborations in Earth Observation, Remote Sensing, GIS, GeoAI, machine learning, environmental modelling, and interdisciplinary applications of geospatial technologies.
 
-For research discussions, academic collaborations, or professional opportunities, please feel free to contact me.
+For research discussions, academic collaborations, PhD and research opportunities, or other professional inquiries, please feel free to contact me.
 
 ## Email
 
