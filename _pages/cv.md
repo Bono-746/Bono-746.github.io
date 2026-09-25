@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download CV (PDF)](/academicpages-test/Bonosri_Ghose_CV.pdf)
+
 ## Education
 
 ### Erasmus Mundus Joint Master of Science
